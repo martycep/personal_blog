@@ -1,9 +1,9 @@
 ---
 layout: home
-title: A Place For Thinking 
+title: a place for messy ideas and thoughts
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
 
-Welcome wandering web user. 
+Welcome wandering web user.
