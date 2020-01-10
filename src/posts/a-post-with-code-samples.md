@@ -6,9 +6,11 @@ tags:
 - venture_capital
 
 ---
-![Illustration by Jin Xia ](/images/true_image.jpeg)
+![](/images/true_image.jpeg "Illustration by Jin Xia ")
 
-What is Silicon Valley like? Should I work at a big tech company or a startup? What are the risks?
+What is Silicon Valley like? Should I work at a big tech company or a startup? 
+
+What are the risks?
 
 As a college student, it’s easy to get lost in the noise when you’re trying to figure out how to break into the Valley. Unless you were born in the Bay Area or go to school here — it’s hard to know where the best place to start is.
 
