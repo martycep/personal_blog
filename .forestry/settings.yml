@@ -7,7 +7,6 @@ sections:
 - type: document
   path: https://github.com/martycep/personal_blog/blob/forestry/src/index.md
   label: Home
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
