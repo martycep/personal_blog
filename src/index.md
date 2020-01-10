@@ -8,6 +8,6 @@ socialImage: ''
 
 welcome intrepid internet user, 
 
-here i learn in public and write about things that i find myself thinking about often in the shower or right before i go to bed. 
+here i learn in public and write about things that i find myself thinking about in the shower or right before i go to sleep. 
 
-enjoy your stay :) 
+enjoy your stay :)
