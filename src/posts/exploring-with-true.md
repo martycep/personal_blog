@@ -6,7 +6,7 @@ tags:
 - venture_capital
 
 ---
-![](/images/true_image.jpeg "Illustration by Jin Xia ")
+![](/images/true_image.jpeg "Illustration by Jin Xia - check her out at https://www.jinxia.space/")
 
 What is Silicon Valley like? Should I work at a big tech company or a startup? 
 
