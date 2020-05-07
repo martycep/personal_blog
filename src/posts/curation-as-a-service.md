@@ -19,7 +19,7 @@ You and your friend are about to eat, but neither one of you can make a decision
 
 Choice overload is a common problem that most consumers face today.
 
-_Choice overload: when people have a more difficult time making a decision because of more options._
+###### _Choice overload: when people have a more difficult time making a decision because of more options._
 
 We no longer have a few products or places to check out and evaluate, but an overabundance of them.
 
@@ -49,9 +49,7 @@ As Coca-Cola’s CEO, Muhtar Kent, commented, “A brand is a promise and a good
 
 But in many areas of consumer goods, there isn’t a dominant brand. Consumers might also be led to purchase based on different needs that certain brands don’t promise to fulfill.
 
-Brands certainly help with easing the burden of choice overload but aren’t end-all-be-all solutions.
-
-Choice overload remains prevalent in areas of consumer goods that require high-involvement in the buying process and have immense consumer abundance.
+Brands certainly help with easing the burden of choice overload but aren’t end-all-be-all solutions. Choice overload remains prevalent in areas of consumer goods that require high-involvement in the buying process and have immense consumer abundance.
 
 As a result, products and services that help mitigate and prevent choice overload are starting to gain interest.
 
