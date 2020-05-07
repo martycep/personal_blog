@@ -35,7 +35,7 @@ For example, Amazon reviews are notoriously high for certain products. This is d
 
 For businesses, this consumer abundance has brought about rising customer acquisition costs (CAC). Below is a slide from Mary Meeker’s annual Internet Trends report showing how goods that are high in industry competition face larger CACs.
 
-![](/images/pasted image 0.png)
+![](/images/report.png)
 
 In response to this overabundance, many companies are now capitalizing on heuristics. As soon as their products hit the minimum threshold of physical quality and efficacy, companies need to convince potential customers with intangibles.
 
