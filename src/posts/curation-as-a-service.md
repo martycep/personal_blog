@@ -5,6 +5,8 @@ tags:
 - 'models '
 
 ---
+![](/images/photo-1557821552-17105176677c.jpeg)
+
 “Where do you want to go for food?”
 
 “I don’t know, honestly anywhere is good with me.”
