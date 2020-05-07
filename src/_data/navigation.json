@@ -6,6 +6,11 @@
       "external": false
     },
     {
+      "text": "Reading",
+      "url": "/reading",
+      "external": false
+    }, 
+    {
       "text": "Twitter",
       "url": "https://twitter.com/martycep",
       "external": true
