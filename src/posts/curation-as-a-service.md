@@ -105,9 +105,7 @@ The beginning form of curation is just information procurement and filtering. Th
 
 Limiting the number of options based on consumer preferences is the most basic way that curation works.
 
-Some examples include:
-
-[CPGD](https://www.cpgd.xyz/), [Yelp](https://www.yelp.com/), [Google](http://google.com)
+Some examples include: [CPGD](https://www.cpgd.xyz/), [Yelp](https://www.yelp.com/), [Google](http://google.com)
 
 It’s important to call out that a lot of filter-based curation has elements of the other degrees of curation baked in. For example, Yelp and Google use your data to make tailored soft recommendations, ones that aren’t explicit enough for you to know that they want you to do a certain thing.
 
@@ -115,9 +113,7 @@ It’s important to call out that a lot of filter-based curation has elements of
 
 Recommendations are the next evolution in curation after filtering. Whereas filtering was about providing you limited results based on existing preferences, recommendations usually take those existing preferences to make predictions about what you might like. This level of curation also includes a level of subjectivity when choosing consumers’ options.
 
-Some examples include:
-
-[Michelin Guide](https://www.viamichelin.com/web/Restaurants), [YouTube](http://youtube.com), [Instagram](http://instagram.com)
+Some examples include: [Michelin Guide](https://www.viamichelin.com/web/Restaurants), [YouTube](http://youtube.com), [Instagram](http://instagram.com)
 
 ### **Autonomous Purchases**
 
