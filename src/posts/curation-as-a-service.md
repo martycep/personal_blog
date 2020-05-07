@@ -61,7 +61,7 @@ Another example of a product that tries to lessen choice overload is b8ta, a ret
 
 Products or services that are lessening choice overload and offloading consumer purchasing risk can be broadly grouped into performing **curation**.
 
-**Curation**: the selection, organization, and presentation of online content, merchandise, information, etc., typically using professional or expert knowledge.
+##### **Curation**: the selection, organization, and presentation of online content, merchandise, information, etc., typically using professional or expert knowledge.
 
 I’ll be speaking to this broad category of consumer products that perform curation as Curation-as-a-Service products.
 
