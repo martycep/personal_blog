@@ -5,8 +5,6 @@ tags:
 - 'models '
 
 ---
-**Curation-as-a-Service**
-
 “Where do you want to go for food?”
 
 “I don’t know, honestly anywhere is good with me.”
