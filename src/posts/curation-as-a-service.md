@@ -72,13 +72,13 @@ Curation-as-a-service (CAAS) products fulfill several problem areas for the cons
 
 Here are a couple of scenarios where CAAS products could come into use:
 
-**Scenario 1**
+#### **Scenario 1**
 
 _Jane wants to give a well-thought-out present to a friend that displays her elegant taste, is tailored for her friend, and deepens that friend’s impression of her. But she doesn’t have the time or the taste to pick out a present that does all those things. She just wants it done and doesn’t want to think about it._
 
 Existing Curation-as-a-Service solutions: Knack, Simone Le Blanc, Fox Blossom, Box Fox
 
-**Scenario 2**
+#### **Scenario 2**
 
 _Alex has been trying to look a lot more classy since he wants to improve his social life, but he doesn’t have the patience for fashion and doesn’t really get why people care so much. He’s tried to learn on his own by going online for tips but just isn’t that interested. He wants the results without effort._
 
@@ -99,7 +99,7 @@ Let’s take a look at the degrees of curation out there.
 
 Curation is a spectrum and we’ve gone from one end and are getting closer and closer to the other end.
 
-**Filtering**
+### **Filtering**
 
 The beginning form of curation is just information procurement and filtering. These services act as ways to get objective information based on your relevant preferences. Products and services include directories, listings, rankings, and reviews.
 
@@ -111,7 +111,7 @@ Some examples include:
 
 It’s important to call out that a lot of filter-based curation has elements of the other degrees of curation baked in. For example, Yelp and Google use your data to make tailored soft recommendations, ones that aren’t explicit enough for you to know that they want you to do a certain thing.
 
-**Recommendations**
+### **Recommendations**
 
 Recommendations are the next evolution in curation after filtering. Whereas filtering was about providing you limited results based on existing preferences, recommendations usually take those existing preferences to make predictions about what you might like. This level of curation also includes a level of subjectivity when choosing consumers’ options.
 
@@ -119,7 +119,7 @@ Some examples include:
 
 [Michelin Guide](https://www.viamichelin.com/web/Restaurants), [YouTube](http://youtube.com), [Instagram](http://instagram.com)
 
-**Autonomous Purchases**
+### **Autonomous Purchases**
 
 Autonomous purchasing is when the product makes the decision for you based on what it knows about you. We’re seeing gradations of autonomous purchases happening right now. Subscription box services are popular examples. Netflix is another. The main thing about this type of curation is that it requires a high level of trust between the consumer and the product.
 
