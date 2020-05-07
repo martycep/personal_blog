@@ -37,8 +37,8 @@ For example, Amazon reviews are notoriously high for certain products. This is d
 
 For businesses, this consumer abundance has brought about rising customer acquisition costs (CAC). Below is a slide from Mary Meeker’s annual Internet Trends report showing how goods that are high in industry competition face larger CACs.
 
-![](https://lh6.googleusercontent.com/LJXm2ZwqJRLB8_6OMel7wVO6h-iTbRTm0ExLZmbM3SaPXe2Bz9E6weAndBk_lpgUoQqY--jQihVNRkR7Tw3I6K-oQ2f0_Z2zNNE7troH0M6-aj5Nt3VIBVlSkflItm-HtO81TzZM =403x302)  
-  
+![](/images/pasted image 0.png)
+
 In response to this overabundance, many companies are now capitalizing on heuristics. As soon as their products hit the minimum threshold of physical quality and efficacy, companies need to convince potential customers with intangibles.
 
 An example of a heuristic in the buying process is a product’s brand.
@@ -95,7 +95,6 @@ Existing Curation-as-a-Service solutions: StitchFix, Bombfell, Allume, Rent-the-
 
 Certainly, if you think about it for a moment, curation services aren’t anything particularly new, but the degree and process to which things are being curated for the consumer have evolved over time and continue to do so.
 
-  
 Let’s take a look at the degrees of curation out there.
 
 **Filtering** ----------------- **Recommendations** ---------- **Autonomous** **Purchases**
@@ -126,7 +125,6 @@ Some examples include:
 
 Autonomous purchasing is when the product makes the decision for you based on what it knows about you. We’re seeing gradations of autonomous purchases happening right now. Subscription box services are popular examples. Netflix is another. The main thing about this type of curation is that it requires a high level of trust between the consumer and the product.
 
-  
 You’re entrusting something to make a choice for you. Trust is difficult to build and easy to destroy.
 
 That’s why this is such a difficult CAAS product to make. But if you’re able to do it well then there’s a big upside. People want to make more good decisions and fewer poor ones. A service that saves people time and makes good decisions for them is highly valued.
