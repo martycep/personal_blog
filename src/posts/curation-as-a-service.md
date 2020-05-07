@@ -125,6 +125,8 @@ That’s why this is such a difficult CAAS product to make. But if you’re able
 
 Some examples include: [StitchFix](https://www.stitchfix.com/), [Blue Apron](https://www.blueapron.com/pages/pricing?cvosrc=search-paid.google.brande-head-80off&g_acctid=546-841-8789&g_adgroupid=87176351655&g_adid=406860148684&g_campaign=Search-Brand-Exact-Head-%2480+Offer-Dec2019&g_campaignid=8644375869&g_keyword=blue+apron&g_keywordid=aud-384482934693%3Akwd-512472970&g_network=g&gclid=CjwKCAiAgqDxBRBTEiwA59eEN1lF7-jnB7LNPthcgx27MaOp4Y9BtfY58xoBesl8bwyi4vojBkdq2BoCYZYQAvD_BwE&utm_campaign=brande-head-80off&utm_medium=search-paid&utm_source=google), [CrateJoy](https://www.cratejoy.com/), [Netflix](http://netflix.com)
 
+### **Possibilities...**
+
 These are just a few archetypes with a few examples of what’s already out there when it comes to curation-as-a-service products. But I don’t think we’re anywhere close to reaping the full benefits of autonomous commerce. Just think about a future where you can have something that makes your select purchases knowing that each purchase will be specifically tailored to you and your needs.
 
 Now there may be some people who think autonomous purchases and liken it some dark AI overload who makes all the choices for everybody, but that’s not the point of autonomous purchases or curation in general. The point is to spend less time making poor purchases and more time living a life supported by high-quality products.
