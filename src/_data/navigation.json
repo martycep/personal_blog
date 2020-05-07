@@ -1,19 +1,20 @@
 {
   "items": [
+    
     {
-      "text": "Home",
-      "url": "/",
+      "text": "Now",
+      "url": "/now",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
       "external": false
     },
     {
       "text": "Reading",
       "url": "/reading",
       "external": false
-    }, 
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/martycep",
-      "external": true
     }
   ]
 }
