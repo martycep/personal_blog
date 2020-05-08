@@ -2,7 +2,7 @@
 date: 2020-01-07
 title: Curation-as-a-Service
 tags:
-- 'models '
+- models
 
 ---
 ![](/images/photo-1557821552-17105176677c.jpeg)
