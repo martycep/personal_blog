@@ -15,6 +15,11 @@
       "text": "Reading",
       "url": "/reading",
       "external": false
+    }, 
+    {
+      "text": "Words",
+      "url": "/archive",
+      "external": false
     }
   ]
 }

@@ -1,9 +1,14 @@
 ---
 layout: 'layouts/page.njk'
-title: some things i read....
+title: readings i've enjoyed
 postsHeading: 
 socialImage: ''
 ---
 
-#### nonfiction
+nonfiction
 - "America is in the Heart" by Carlos Bulosan
+- "The Library Book" by Susan Orlean
+- "Ruined by Design" by Mike Monteiro
+
+fiction
+- "Where Reasons End" by Yiyun Li

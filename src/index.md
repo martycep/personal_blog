@@ -8,6 +8,6 @@ socialImage: ''
 
 welcome intrepid internet user, 
 
-here i learn in public by researching and writing
+here i learn in public 
 
 enjoy your stay &#127796;
