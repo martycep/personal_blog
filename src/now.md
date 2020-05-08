@@ -7,6 +7,7 @@ socialImage: ''
 
 
 - post-grad recruiting 
+    - product marketing / analyst roles 
     - interested in health / b2c / transportation startups 
     - nyc, la, sf (in order of preference) 
 
