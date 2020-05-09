@@ -22,7 +22,7 @@ Open Source Design aims for creative empowerment and opportunity. With Figma, us
 
 This harm is possible not because makers are thinking of enabling user abuse, but rather makers aren’t thinking of how to reduce it. Features are everything that a product can and can’t do. By bringing more designers into the mix with Open Source Design, a wider and deeper pool of knowledge and experiences can make sure that there are fewer holes for abuse to get through.
 
-The idea of Open Source Design isn’t just supported by Figma, but really any product that makes creation during the digital age easier and more accessible. Squarespace, Canva, and Bubble all promote a sense of Open Source Design principles.
+The idea of Open Source Design isn’t just supported by Figma, but really any product that makes creation during the digital age easier and more accessible. [Squarespace](https://www.squarespace.com/), [Canva](https://www.canva.com/), and [Bubble](https://bubble.io/) all promote a sense of Open Source Design principles.
 
 Config made me excited about Figma, but Open Source Design makes me confident about the future of the internet.
 
