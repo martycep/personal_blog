@@ -1,6 +1,6 @@
 ---
 date: 2020-02-10
-title: Open Source Design
+title: Open Source Design = More Open Web
 tags:
 - models
 - design
