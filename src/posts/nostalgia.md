@@ -3,6 +3,7 @@ title: Nostalgia
 date: 2020-05-08
 tags:
 - quarantine
+draft: true
 
 ---
 
