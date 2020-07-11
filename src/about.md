@@ -5,7 +5,7 @@ postsHeading:
 socialImage: ''
 ---
 
-say hi 👋: martinjcepeda [at] gmail [dot] com
+say hey 👋: martycep [at] hey [dot] com
 
 for the professional 💼
 
