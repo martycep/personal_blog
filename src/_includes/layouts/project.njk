@@ -1,5 +1,5 @@
 {% extends 'layouts/base.njk' %}
-{% set pageType = 'Post' %}
+{% set pageType = 'Project' %}
 
 {# Intro content #}
 {% set introHeading = title %}
@@ -41,7 +41,6 @@
           </div>
         </footer>
       {% endif %}
-      {% set postListItems = collections.postFeed %}
     </article>
   </main>
 {% endblock %}

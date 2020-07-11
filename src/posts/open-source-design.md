@@ -6,7 +6,7 @@ tags:
 - design
 
 ---
-![](/images/IMG_2210-1.jpg)
+![](/images/IMG_2210-1.jpg "Config 2020")
 
 If you’re at all familiar with tech twitter and design, then you’ve probably heard of [Figma](https://www.figma.com), the google docs of design tools. Think of Adobe Illustrator, but online and you’re able to collaborate in real-time. It’s pretty nifty and best of all it’s free. Recently, Figma announced its first conference, Config, would be happening in the first week of February in San Francisco. Being the curious enthusiast I am, I applied for the student scholarship and was pleasantly surprised when they gave me a free ticket to attend.
 

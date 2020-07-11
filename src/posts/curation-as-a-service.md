@@ -5,7 +5,8 @@ tags:
 - models
 
 ---
-![](/images/photo-1557821552-17105176677c.jpeg)
+![](/images/photo-1557821552-17105176677c.jpeg "Curation as a Service")
+
 
 “Where do you want to go for food?”
 

@@ -51,6 +51,13 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
+  const liveProjects = project => project.date <= now && !project.data.draft;
+  config.addCollection('projects', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/projects/*.md').filter(liveProjects)
+    ].reverse();
+  });
+
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
