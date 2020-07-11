@@ -11,7 +11,7 @@ for the professional 💼
 
 I recently graduated from [Washington University in St. Louis](https://wustl.edu/) where I studied business, computer science, and design. Last summer, I was a fellow at [True Ventures](https://trueventures.com/) and worked on GTM, growth, and design for one of their companies, [Pendulum Therapeutics](https://pendulum.co/). 
 
-I've had a keen interest for startups choosing St. Louis as my home for 4 years because of the entrepreneurial ecosystem. I'm especially interested in seeing how we evolve our path to purchase systems through the blending of social and consumer experiences. 
+I work best in situations where I have to adapt and learn on the go. That's why I like startups and interdisciplinary responsibiliites. I'm particularly interested in how we can responsibly build and think about long-term impact, not just short-run benefit. 
 
 for the curious 🌱
 
