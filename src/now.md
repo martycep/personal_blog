@@ -7,19 +7,11 @@ socialImage: ''
 
 # ☁️☁️☁️
 
-- post-grad recruiting 
-    - product marketing / analyst roles 
-    - interested in health / b2c / transportation startups 
-    - nyc, la, sf (in order of preference) 
-
-- playing 
-    - picking up video games for the first time in 5 years 
-    - watching tik toks 
+- general
+    - recruiting (growth/product/ops roles)
+        - looking to join early stage companies building for the future (agtech, proptech)
 
 - thinking about
-    - homogeneity in the bay area 
-    - performative wokeness
-    - ~~love~~ mortality
-
-- working on 
-    - product review platform for ios
+    - cities 
+    - decentralized agriculture 
+    - email culture 
