@@ -2,27 +2,27 @@
   "items": [
     
     {
-      "text": "Now",
+      "text": "now",
       "url": "/now",
       "external": false
     },
     {
-      "text": "About",
+      "text": "about",
       "url": "/about",
       "external": false
     },
     {
-      "text": "Reading",
+      "text": "reading",
       "url": "/reading",
       "external": false
     }, 
     {
-      "text": "Words",
+      "text": "words",
       "url": "/archive",
       "external": false
     }, 
     {
-      "text": "Projects",
+      "text": "projects",
       "url": "/project-archive",
       "external": false
     }
