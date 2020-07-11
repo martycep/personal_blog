@@ -20,6 +20,11 @@
       "text": "words",
       "url": "/archive",
       "external": false
+    }, 
+    {
+      "text": "projects",
+      "url": "/project-archive",
+      "external": false
     }
   ]
 }

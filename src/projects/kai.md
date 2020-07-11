@@ -1,6 +1,7 @@
 ---
 date: 2020-01-07
-title: Test
+title: Kai - a speculative design project on opioid abuse 
+draft: false
 ---
 As part of Interaction Design at Washington University in St. Louis, we partnered up with a team of medical professionals, iCHASM - Investigators Connecting Health and Social Media, to design a digital experience for mothers that are recovering from opioid abuse.
 
@@ -9,6 +10,18 @@ The partnership was for 3 months and our role as a student design team was to de
 Engineering feasibility was considered, but not the main focus. This was a speculative design project centered around finding the problems and giving ideal solutions. 
 
 ### Problem
-
 Design a digital experience that helps mothers who are either pregnant or postpartum and recovering from opioid substance abuse.
+
+### Solution 
+A smart wearable that connects patients with resources in the community and allows for more reliable communication with providers. 
+
+ ### Roles  
+Teammates: Anya Pawar, Maya Terry 
+Role: I was a generalist on the team contributing to the visual, interaction, and product designs of Kai. I also acted as the defacto product manager guiding feature roadmap and product goals throughout the process.
+
+Some select shots below: 
+
+<iframe src="https://giphy.com/embed/U1U1EbwEykvygBUQts" width="480" height="360" frameBorder="0" class="giphy-embed" ></iframe>
+
+[Download Process Deck](https://drive.google.com/file/d/1USemgc8NwrN1H6-jyfTG-u-E533_UzSo/view?usp=sharing) - download and open as 
 
