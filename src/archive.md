@@ -1,5 +1,5 @@
 ---
-title: 'Words'
+title: 'words'
 layout: 'layouts/archive.njk'
 ---
 
