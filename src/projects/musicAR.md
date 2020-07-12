@@ -20,4 +20,4 @@ Below is a demo video. You can see the more formal code repo [here](https://bitb
 
 <iframe src="https://giphy.com/embed/LqUon7aVQJmMrdgg97" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
-You can view a demo with sound [here](https://youtu.be/983BRyQ5MYo).
+You can view a demo with sound [**here**](https://youtu.be/983BRyQ5MYo).
