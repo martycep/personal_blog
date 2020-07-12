@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: src/projects-archive.md
+  label: Project Page
+  match: "**/*"
 - type: directory
   path: src/projects
   label: Projects
