@@ -1,6 +1,9 @@
 ---
 date: 2020-01-10
 title: musicAR - an audiovisual experiment
+tags:
+- design
+- ios
 
 ---
 Is it possible to **see** music?
