@@ -3,7 +3,7 @@ title: 'Exploring with True Ventures '
 date: 2019-08-08
 tags:
 - sf
-- venture_capital
+- vc
 
 ---
 ![](/images/true_image.jpeg "Illustration by Jin Xia - check her out at https://www.jinxia.space/")
