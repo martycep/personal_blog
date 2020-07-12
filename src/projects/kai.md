@@ -1,10 +1,11 @@
 ---
-date: 2020-01-07
+date: 2019-12-07
 title: Kai - a speculative design project on opioid abuse
 draft: false
 
 ---
-![](/images/screen-overview.png)
+
+![](/images/screen-overview.png "Some final screens")
 
 Download process deck [**here**](https://drive.google.com/file/d/1USemgc8NwrN1H6-jyfTG-u-E533_UzSo/view?usp=sharing) **-** download and open as a PPT for animations and correct formatting.
 
